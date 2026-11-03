@@ -7,8 +7,8 @@ export const projectsData = [
     longDesc: "This project focuses on creating a first-person psychological horror game in Unreal Engine 5 using Blueprint and C++. It features modular interaction systems, dynamic event triggering, AI-driven scare sequences, and immersive environmental storytelling. The game combines exploration, puzzle-solving, and reality-shifting mechanics to maintain tension while delivering a narrative-focused horror experience inspired by classic psychological horror titles.",
     video: "/videos/survival_clip.mp4", // Coloca tus vídeos locales aquí
     images: [
-      "/public/images/neverawake (1).png", // Coloca tus capturas locales aquí
-      "/public/images/neverawake (2).png",
+      "/public/images/prueba 1.jpg", // Coloca tus capturas locales aquí
+      "/public/images/prueba 2.jpg",
     ],
     technologies: ["Unreal Engine 5", "C++", "Blueprints", "Chaos Physics"]
   },
